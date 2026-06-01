@@ -1,8 +1,3 @@
-# Luigi de Almeida Bruno
-# 2610452
-# 33C
-# Declaro que este documento foi produzido em sua totalidade por mim.
-#
 
 import pygame
 import sys
